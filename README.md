@@ -35,7 +35,7 @@ The script performs these actions using Selenium WebDriver in Java with the Chro
 
 4. **Login:**
    - The script clicks the "Login" button.
-   - After a successful login, the user should be redirected to the manga search page.
+   - After a successful login, the user will be redirected to the manga search page.
 
 **Code Details:**
 
@@ -61,7 +61,7 @@ The script performs these actions using Selenium WebDriver in Java with the Chro
 
 3. **Verify Search Results:**
    - The script checks that the correct manga cards are displayed for each search term.
-   - A search with no results should display a "No manga found" message.
+   - A search with no results displays a "No manga found" message.
 
 **Code Details:**
 
